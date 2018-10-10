@@ -1,0 +1,10 @@
+{
+  "name": "inquision/inquision",
+  "description": "The Framework For Web Enthusiast",
+  "keywords": ["framework", "inquision"],
+  "license": "MIT",
+  
+  "require" {
+  "php": "7.1.3"
+  
+  };
